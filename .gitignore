@@ -35,3 +35,5 @@ build/
 
 ### Maven Release Plugin ###
 release.properties
+
+pom.xml.*
