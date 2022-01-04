@@ -8,6 +8,7 @@
     <packaging>jar</packaging>
     <artifactId>vsac-client-service</artifactId>
     <scm>
+        <connection>scm:git:ssh://git@github.com:MeasureAuthoringTool/vsac-client-service.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:MeasureAuthoringTool/vsac-client-service.git</developerConnection>    
     </scm>
     <properties>
