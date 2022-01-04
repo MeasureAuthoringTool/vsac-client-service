@@ -6,7 +6,7 @@
     <groupId>gov.cms.mat</groupId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <artifactId>vsac</artifactId>
+    <artifactId>vsac-client-service</artifactId>
     <scm>
         <developerConnection>scm:git:ssh://git@github.com:MeasureAuthoringTool/vsac-client-service.git</developerConnection>    
     </scm>
