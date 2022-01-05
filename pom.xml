@@ -8,13 +8,14 @@
     <packaging>jar</packaging>
     <artifactId>vsac-client-service</artifactId>
     <scm>
-        <connection>scm:git:ssh://git@github.com:MeasureAuthoringTool/vsac-client-service.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:MeasureAuthoringTool/vsac-client-service.git</developerConnection>    
+        <connection>scm:git:github.com:MeasureAuthoringTool/vsac-client-service.git</connection>
+        <developerConnection>scm:git:github.com:MeasureAuthoringTool/vsac-client-service.git</developerConnection>    
     </scm>
     <properties>
         <java.version>16</java.version>   
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
+        <project.scm.id>git</project.scm.id>
     </properties>
     <dependencies>
         <dependency>
